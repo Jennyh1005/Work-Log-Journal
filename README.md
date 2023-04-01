@@ -1,8 +1,8 @@
 # Work-Log-Journal
-Title for your project is about
+a. Title for your project is about
 
-A sentence on the purpose of the project
+b. The purpose of creating a visual novel is to tell an interactive story through a combination of text, images, and sound, providing an immersive experience for the player.
 
-Goal: What do you want to have finished by the middle of June?
+c. By the middle pf June, I want to finish outlining the main story, complete the script and done programing. 
 
-Technology used: What are you using to make the project?
+d. I am going to use my Macbook to make the project.
