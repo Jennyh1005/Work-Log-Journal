@@ -1,5 +1,5 @@
 # Work-Log-Journal
-a. Title for your project is about
+a. Visual novel
 
 b. The purpose of creating a visual novel is to tell an interactive story through a combination of text, images, and sound, providing an immersive experience for the player.
 
